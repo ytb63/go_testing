@@ -1,8 +1,8 @@
 package main
 
-// pgm à tester avec l'utilitaire "netcat" que j'ai aliasé avec nc
-// donc : nc localhost 4000 si la foncion de Fprintln est utilisé
-// en utilisant la libairie "io", tu peux aussi utiliser io.Copy(c,c) pour faire un echo !
+//
+//
+//
 import (
 	"fmt"
 	"log"
