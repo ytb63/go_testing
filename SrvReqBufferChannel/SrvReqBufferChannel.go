@@ -1,6 +1,6 @@
 package main
 
-//
+// insertion de commentaire !
 //
 //
 import (
